@@ -1,0 +1,141 @@
+ASSIGNMENT INFORMATION
+Due Dates:
+Assignment 1 – Requirements Gathering Due – Interview: Will be held in Week 5 Applied session
+ Due – Report: Sunday 6 April 2025, 4:30pm
+Self and Peer Assessment 1 Due: Monday 7 April 2025, 4:30pm
+Group Assignment: You will complete this assignment in your allocated team. If you do not have a
+team allocation, please contact your tutor urgently.
+IMPORTANT NOTE: You will receive an individual mark for this assignment, based on your group
+mark, which will be moderated based on the FeedbackFruits peer assessment and tutor observation.
+All team members must complete the self and peer assessment for the assignment. Failure to
+complete the peer assessment by the due date will most likely result in a fail mark for the
+assignment.
+Value:
+Assignment 1 is worth 5% of the final mark.
+Aims:
+This assignment will give you the opportunity to practice your analytical, communication and
+teamwork skills. Specifically, it will help you:
+● Identify the business requirements for a system using data gathering techniques
+● Develop your interview skills
+● Identify and analyse relevant stakeholders in a project
+Outline:
+You have been given the task of gathering information and analysing stakeholders for the
+development of an information system for the Luxe Fashion Store.
+Assessment criteria:
+A detailed marking scheme is available in the Assignment section on Moodle. We highly recommend
+reviewing the marking scheme before commencing the assignment.
+Getting help:
+Students are encouraged to post questions about the assignment and the system on the Ed
+Discussion forum – Assignment 1 section. We will have an FAQs post pinned in the Assignment 1
+section. Please read the FAQs and the Assignment 1 forum before posting your question, as your
+question may have already been answered. Please do not post answers for staff to review on the
+forum.
+NOTES:
+● Some of the posts (either from students or staff) could form extra requirements from your
+client and if so, please include them in your Assignment 1 Report.
+● Staff will make every attempt to answer questions promptly – NOT necessarily immediatel
+
+Planning and management:
+Assignment planning and management must be done using your Trello Kanban project
+management tool. To assist with setting up your team for success, and the steps for managing an
+assignment, please refer to the ‘Organising your team for success & Assignment planning
+document’ available in the Additional information and resources section in Moodle.
+Extensions:
+Due to the assignment structure, late submissions will not be accepted, as solutions might often be
+released straight after the due date. However, if there are extenuating circumstances, please
+contact your campus lecturer.
+Submission process:
+● Assignment 1 should only be submitted once via Moodle, by a single member of the team.
+Please note that the similarity detection software Turnitin will be enabled.
+● If there are multiple files, please merge them into a single pdf file.
+● The file name of the submission should follow this format:
+• FIT2001_Assignment1_Team[yourTeamID].pdf
+• e.g. FIT2001_Assignment1_Team96.pdf
+● All team members are responsible for the final submission, and therefore every team member
+should be involved throughout and should review the final version prior to its submission.
+● Each team member must accept the declaration statement on Moodle. Failure to do so will
+result in your assignment not being submitted correctly, and thus not being marked.
+● How to submit:
+To submit the assignment - ONE TEAM MEMBER
+● Click on 'Assignment 1 - Requirements Gathering Submission'
+● To submit a pdf copy of the assignment - click on 'Add submission'
+● Click on 'Submit Assignment'
+● When at the digital coversheet 'Confirm Submission' statement
+● Tick the 'I accept student statement' box, click on 'Continue'
+To confirm submission - MUST BE DONE BY ALL OTHER TEAM MEMBERS, otherwise the
+assignment submission will not be finalised
+● Click on 'Assignment 1 - Requirements Gathering Submission'
+● Click on 'Submit Assignment'
+● When at the digital coversheet 'Confirm Submission' statement
+● Tick the 'I accept student statement' box, click on 'Continue'
+Once all team members have gone through this process, the assignment is successfully submitted. 
+
+ASSIGNMENT REQUIREMENTS
+This assignment will help you understand the business requirements of the system desired by the
+Luxe Fashion Store.
+Interview (References: Seminar 3, Sample Interview Video and Applied 4 Support Material)
+You will conduct an interview with your client – Taylor (they/them), who looks after Luxe Fashion
+Store (this role will be played by your tutor) during a time organised with your tutor in the Week 5
+Applied session.
+Using the preliminary system description (see Appendix A), teams need to prepare for the
+interview. All team members need to be present and actively ask questions during the
+interview. Taylor has approx. 10 minutes for the interview.
+Stakeholder Analysis (References: Seminar 2 and Applied 3 Support Material)
+● Identify the stakeholders in the proposed system.
+● Analyse each stakeholder, and place in the relevant quadrant of a power/level of interest matrix.
+● Briefly explain your matrix placement decision for each stakeholder.
+ASSIGNMENT DELIVERABLES
+Assignment 1 should be submitted in a Report format – See Assignment 1: FAQs for format details in
+Ed Discussion.
+The report should include:
+– Interview Deliverables
+- Interview Agenda
+- Interview Record/Summary – This is not a ‘word for word’ transcript of the
+interview, but a summary of all the key business functional and non-functional
+requirements (i.e., quality requirements) described during the interview. It is used
+by the client to confirm that you have understood their requirements.
+– Stakeholder Analysis (Note: This is not part of the interview)
+- A completed power/level of interest matrix.
+- Discussion of your reasoning behind the placement decision in the matrix for each
+stakeholder.
+– Assumptions
+Please note any assumptions you have made about the case study – it is perfectly fine to
+have none.
+FeedbackFruits - Self and Peer Assessment
+The system will only open for one day after the due date of the assignment, so that you can
+adequately reflect on your own performance and that of your team members. Failure to complete
+the peer assessment by the due date will most likely result in a failed assignment.
+
+Appendix A – Luxe Fashion System
+Preliminary System Description (Brief Information)
+Luxe Fashion Store has been operating since 2015, and is operated by Taylor Woo
+(they/them). Taylor has hired a part-time staff to help with the business during busy periods.
+Taylor has provided the following preliminary information about the system they would like
+you to build and is looking forward to meeting your development team at the first interview
+you have organised.
+___________________________________________________________________________
+Luxe Fashion is my fashionable handbags and accessories store located at Melbourne Road,
+Melbourne. We specialise in seconds, pre-owned and well-known Brand and Vintage
+handbags and accessories (such as LV (Louis Vuitton), Chanel, Hermes and many more).
+Over time, we have developed a broad and loyal customer base, with most of our customers
+aged 25-60, who return to our store regularly. We have also developed a strong presence in
+the local area and undertake a range of advertising and marketing initiatives (such as print
+advertisement, direct SMS communication, Instagram, Facebook and visual merchandising of
+our windows) to further build and engage our customer base. We have also established good
+manual internal business processes, but feel that the timing is right to automate some of our
+processes as many of the things we do are very time consuming.
+We take stock from two types of clients - individual clients who want to sell their second-hand
+bags and accessories etc., and business clients who want to sell out-of-season stock. We take
+their stock on consignment (meaning we take responsibility for selling their stock) for 8
+weeks, and take a commission on any sales made. The stock is currently managed manually.
+For the new system, we want to focus on automating most of (if not all) the processes
+associated with the stock. This includes automating processes such as:
+● trying to source new stock from our existing clients,
+● entering new stock into the system,
+● marking down of stock’s price if it does not sell,
+● entering the outcome of any sales (including paying the client),
+● returning stock to clients if it does not get sold in the 8-week period, and
+● donating to the Salvos if clients do not come to pick up their stock (or if they choose
+this outcome in advance).
+I would like the new system to help me manage these processes, so I know exactly where I
+am with stock at any given time. 
