@@ -1,0 +1,120 @@
+ASSIGNMENT 3: TOTAL MARKS - 100 (14% of final mark) HD Excellent Reflects the highest level of performance D Good Reflects a mastery of what is required C Average Basic understanding of what is required. P Poor Reflects the beginnings of understanding what is required N Unacceptable Fails to identify what is required PROTOTYPES (73%)
+Persona (8)
+● All information required for persona included
+● Visually appealing and very easy to understand
+● A well thought out and complete research plan
+● Most information required for persona included
+● Visually appealing and reasonably easy to understand
+● A well thought out and mostly complete research plan
+● Most information required for persona included, but some important elements excluded
+● Visually reasonable appealing and reasonably easy to understand
+● A reasonable research plan with some elements missing
+● Some information required for persona included
+● Visually just okay and can be challenging to understand
+● A very basic research plan with minimal analysis planned
+● No or minimal correct information required for persona included
+● Visually confusing and very difficult to understand
+● No research plan included that makes sense
+Meets business requirements (35)
+● Shows thoughtful analysis and critical evaluation of what is required.
+● Accurately reflects all requirements.
+● Full assumptions/explanation made
+● Shows some level of critical thinking and is well organised and logical.
+● Accurately reflects most requirements.
+● Good assumptions/explanation made
+● Fulfils basic requirements but no more. No obvious critical thinking or analysis.
+● Reflects some aspects of the requirements.
+● Reasonable assumptions/explanation made
+● Reflects a basic understanding of what is required.
+Many requirements are not accurately reflected.
+● Some assumptions/explanation made
+● Shows little or no understanding of the requirements.
+● Many requirements missed or represented very poorly.
+● Minimal/no assumptions/explanation made
+Layout & Design (15)
+● Interfaces are attractive and consistent in style for all functions.
+● Site is well organised and navigation is easy. Font and graphic elements are of high quality, and enhance content.
+● Look and feel appropriate to full range of target users
+● Interfaces are attractive, but not consistent in style for all functions.
+● Site is well organised.
+● Font and graphic elements are appropriately used and are of acceptable quality to enhance content.
+● Look and feel appropriate to most target users.
+● Interfaces are attractive, but not consistent in style for all functions.
+● Site is well organised.
+● Font and graphic elements are appropriately used and are of acceptable quality to enhance content.
+● Look and feel appropriate to the main target user.
+● Interfaces are not attractive – a bit cluttered, with many inconsistencies.
+● Site is not well organised.
+● Font and graphic elements are not always used appropriately or are of inferior quality.
+● Interfaces designed without target users in mind.
+● Interfaces are a disaster – very cluttered, with many inconsistencies.
+● Site is not organised at all.
+Font and graphic elements are used inappropriately or not used, or are of such poor quality that they detract from the content.
+● Interface not designed for target users, but for IT students
+
+ASSIGNMENT 3: TOTAL MARKS - 100 (14% of final mark) HD Excellent Reflects the highest level of performance D Good Reflects a mastery of what is required C Average Basic understanding of what is required. P Poor Reflects the beginnings of understanding what is required N Unacceptable Fails to identify what is required
+Interaction Design – Usability (15)
+● Intuitive, very easy to learn, and very easy to use.
+● All functions are very efficient.
+● At all times the user is given:
+- clear, concise and informative feedback
+- clearly marked reversals / exits
+- clear error message and recovery options
+● Considers full range of target users
+● Easy to learn, and use.
+● Almost all functions are efficient.
+● Nearly always the user is given:
+- clear, concise and informative feedback
+- clearly marked reversals / exits
+● - clear error message and recovery options
+● Considers most target users
+● Easy to use, once you learn it.
+● Most functions are efficient.
+● In most instances the user is given:
+- clear, concise and informative feedback
+- clearly marked reversals / exits
+- clear error message and recovery options
+● Considers only main target user
+● Hard to use.
+● Many functions are inefficient.
+● In many instances the user is NOT given:
+- clear, concise and informative feedback to actions
+- clearly marked reversals / exits
+- clear error message and recovery options
+● Target users not considered
+● Hard to figure out how to even get started using the prototype.
+● Most functions are inefficient.
+● In most instances the user is NOT given:
+- clear, concise and informative feedback to actions
+- clearly marked reversals / exits
+- clear error message and recovery options
+● Target users are not considered, and are opposite to what they require.
+PROTOTYPE DEMONSTRATION (20%)
+● The group is very well prepared – collaboration is obvious
+● Timing is good
+● The demonstration is organised and presented in a logical sequence. The audience can easily understand all the main features of the system
+● The group is well prepared – collaboration is obvious
+● Timing is good
+● The demonstration is organised and presented in a logical sequence in most instances. The audience can understand almost all the main features of the system
+● The group is reasonably prepared – some collaboration is evident
+● Timing is reasonable – just a bit over time
+● The demonstration is generally organised and presented in a logical sequence, but there is some jumping back and forth. The audience can understand most of the main features of the system
+● The group preparation appears uneven – minimal collaboration is evident
+● Timing is poor – more than 5 minutes over time
+● The demonstration is disorganised and presented in a confusing way. The audience has difficulty understanding the main features of the system.
+● It appears that the presentation was not prepared for - little or no collaboration has occurred.
+● Timing is poor – presentation has to be stopped
+● The presentation is disorganised and rambling. The audience is left confused as to the main features of the system.
+
+REPORT AND PROTOTYPE PRESENTATION AND TEAM ASSIGNMENT PROJECT MANAGEMENT (7%)
+● Title page (Assignment title & team member details), Table of Contents, Page numbers etc.
+● Well formatted – headings, sub-headings are consistent etc.
+● Interface design and description are easy to read, clearly describe the business functionality and show message handling, and flow between the screens
+● Trello board – Completed tasks reflected on Trello board, including deadlines, team member tasks allocations etc.
+FeedbackFruits – Self and Peer Assessment
+Each student will rate their own performance and that of their team members for Assignment 3 across the following 5 key areas of team:
+Contributing to the team's work, Interacting with teammates, Keeping the team on track, Expecting quality and Having relevant knowledge, skills and abilities.
+The overall rating received by each team member will be used to adjust their individual mark using the team assignment mark as the baseline.
+The individual assignment mark can be scaled up by up to 10% (or the maximum mark available for the assignment), or can be scaled down to 0 marks for the assignment – there is no percentage limit to scaling down.
+Please ensure that you include comments explaining your decision, if you have rated a team member lower than the rest of the team.
+Academic Integrity Generative AI tools cannot be used in this assessment task In this assessment, you must not use generative artificial intelligence (AI) to generate any materials or content in relation to the assessment task.

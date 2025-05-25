@@ -1,0 +1,114 @@
+Luxe Fashion Store Case Study
+Preliminary and Detailed System Description
+
+Preliminary System Description
+Luxe Fashion Store has been operating since 2015, and is operated by Taylor Woo (they/them). Taylor has
+hired a part-time staff to help with the business during busy periods. Taylor has provided the following
+preliminary information about the system they would like you to build and is looking forward to meeting
+your development team at the first interview you have organised.
+____________________________________________________________________________
+Luxe Fashion is my fashionable handbags and accessories store located at Melbourne Road, Melbourne.
+We specialise in seconds, pre-owned and well-known Brand and Vintage handbags and accessories (such
+as LV (Louis Vuitton), Chanel, Hermes and many more).
+Over time, we have developed a broad and loyal customer base, with most of our customers aged 25-60,
+who return to our store regularly. We have also developed a strong presence in the local area and
+undertake a range of advertising and marketing initiatives (such as print advertisement, direct SMS
+communication, Instagram, Facebook and visual merchandising of our windows) to further build and
+engage our customer base. We have also established good manual internal business processes, but feel
+that the timing is right to automate some of our processes as many of the things we do are very time
+consuming.
+We take stock from two types of clients - individual clients who want to sell their second-hand bags and
+accessories etc., and business clients who want to sell out-of-season stock. We take their stock on
+consignment (meaning we take responsibility for selling their stock) for 8 weeks, and take a commission
+on any sales made. The stock is currently managed manually. For the new system, we want to focus on
+automating most of (if not all) the processes associated with the stock. This includes automating processes
+such as:
+● trying to source new stock from our existing clients,
+● entering new stock into the system,
+● marking down of stock’s price if it does not sell,
+● entering the outcome of any sales (including paying the client),
+● returning stock to clients if it does not get sold in the 8-week period, and
+● donating to the Salvos if clients do not come to pick up their stock (or if they choose this outcome
+in advance).
+I would like the new system to help me manage these processes, so I know exactly where I am with stock
+at any given time. 
+
+Detailed System Description
+Currently, when a client walks into the store with their stock, the first thing I do is to check if they are a
+new client. If they are new, I get them to complete a client form - either business or individual (see Client
+Forms in the Sample files folder), allocate a client number to them, and put their details in a spreadsheet
+(see Client Data File in the Sample files folder), so that I can easily find client details when I need them. I
+give them a client card with their client number on it. They must have a registered PayPal account to
+facilitate payment for their sold stock, before I will accept any stock from them. I get their Paypal ID from
+them.
+In the new system, we would like our clients to do this registration process online so that they can view
+the status of their stock at any given time. This will save us time, as we won’t have to deal with endless
+queries on the phone. Once they register and their account is active, we would like them to be able to
+login to view their personal details and change their details at any time if they need to, change their
+password if they want to, and view their stock history. For each stock item they have given to the store
+they should be able to view a complete description of their stock item and the history of that particular
+stock item (e.g. markdown, sold, returned, etc.) and anything else we think is useful for them. Clients
+should not be able to delete their account. If they want to delete their account, they should put in a
+request to me by filling in an online form and reasons for deleting/archiving their account. We would then
+delete/archive their account based on their request.
+Currently, the first thing I do when processing new stock brought in by our clients, is to review the stock
+to check its suitability for sale in my store. If I think it can sell, I take it on consignment, assign a stock
+number, and complete the consignment form (see Consignment Form in the Sample files folder). I also
+take a photo of the item, and staple it to the form. Sometimes I take a few photos to get all the details
+(such as a close up of the tag or logo). I then put the consignment form in the ‘Selling folder’ in stock
+number order, and put the stock on the shelf/rack. The client pays a 5% (of the asking price) stocking fee
+per item. This must be paid in full before the item will be stocked. If the client has brought in a number of
+items, I just give them one receipt for payment of all the stocking fees for all the stock they have brought
+in at that time. I would like all stock information stored in the new system, and for accounting purposes
+I need to know the payment details as well.
+I would also like to help my clients decide on a sale price and markdown schedule for their stock. As such,
+I want to be able to search in the new system to find similar items and check their selling price and
+markdown history, to provide better advice to my clients.
+I would also like to email all my clients requesting stock when I am running low in the store. Again, I would
+like this done automatically based on the number of stock items currently in the store. It would be good
+if we could set up some sort of email template, and then maybe the new system could do some sort of
+mail merge with the client data and send out personalised emails requesting stock. I would like to keep
+track of the email notifications sent to clients. I would also like to look at the number of stock items I have
+
+of a particular brand, as I often get queries from customers about whether I have particular brands in
+stock. They sometimes also enquire about a particular stock type e.g. wallet, jewelleries, etc.
+Currently, if a stock does not sell, I generally mark it down to try to sell it. All stock markdowns are done
+manually. On Monday each week, I go through the ‘Selling folder’, and mark down stock based on the
+client’s markdown schedule for the item. The schedule is agreed upon when the client hands over the
+stock. The standard is that the stock is reduced by 5% each week, and I write it on the consignment form,
+but some clients request not to have their stock marked down. So basically, I start with the current date
+and the sale price, and then write down the expected markdown dates and the markdown sale price, if
+they are willing to markdown the stock. This should all be automated in the new system. If I move the
+location of the item (e.g. to the Bargain Bin section), I change the shelf location on the consignment form
+as well. When an item is marked down I write the date on the consignment form (See Consignment Form
+in the Sample files folder), so that I know that it has been marked down, and because sometimes it is done
+on a different date to the one specified in the schedule. This process is extremely tedious and very time
+consuming, and so I would like this process to be automated. It would also be great to have a printed
+report of all the markdown stock, which includes stock description, location of the stock in the store, and
+new price stickers. That would make the whole markdown process much easier.
+My sales process has already been automated, and I print out the Daily Sales Report (see Daily Sales Report
+in the Sample files folder) at the end of the day and add the sale price and date of sale, to the consignment
+forms for all sold consignment items, and move the forms to the ‘Sold folder’. Once the new system is
+implemented, the sales system will integrate with this new system, and update the new system with sales
+information - sales ID, sale price and sale date as soon as it happens.
+Currently, at the start of each week on Monday when the store is closed, I do all the administration. I use
+PayPal to pay the clients for any of their items that were sold during the previous week, and move the
+consignment forms to the ‘Paid folder’. The amount paid to the client is the sale price minus my
+commission for the sale. This commission is 20% of the final sale price for individuals and is a negotiated
+percentage for business clients, which is decided when they first become clients. I would like this process
+to be managed in the new system.
+On Monday each week, I also remove all stock items that have not sold for 8 weeks. I move the relevant
+consignment forms to the ‘Unsold folder’ and also email the client to organise pick-up of their stock, and
+let them know that if they do not pick up their stock in approximately 4 weeks, I will donate the stock to
+the Salvos. I put the expected ‘pick up date’ on the form. When the stock is picked up, I write the date in
+the collected date field on the form and move the form to the ‘Collected folder’. When the stock is donated
+to the Salvos, I put the date in the ‘Donated date’. Again, I would like some of this to happen
+automatically.
+Lastly, I would like the new system to allow me to generate the “return” report (at any time) that includes
+the unsold items and items that need to be returned to clients. 
+Notes:
+● A client is a person who wants to sell their items to our customers via our store.
+● A customer is a person who buys items from our store.
+● No part of the system will be used by our customers in this version of the new system.
+● Customers are told that they cannot return stock, so we do not have to manage returns/refunds
+in the new system. 

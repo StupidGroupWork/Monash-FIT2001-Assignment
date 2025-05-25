@@ -1,0 +1,199 @@
+ASSIGNMENT INFORMATION
+Title: Requirements Modelling & Documentation
+Due Dates:
+Assignment 2 – Requirements Modelling &
+Documentation
+● Story Mapping Workshop & Draft User
+Story Map & User Stories
+● Final User Story Map & User Stories
+● Final Report
+
+ Due: At time organised with your Tutor in
+ Week 7 – meeting must be completed
+ by 23 April
+Due: Sunday, 4 May, 4:30pm
+Due: Sunday, 4 May, 4:30pm
+Self and Peer Assessment 2 Due: Monday, 5 May, 4:30pm
+Group Assignment: You will complete this assignment in your allocated team.
+IMPORTANT NOTE: You will receive an individual mark for this assignment, based on your group
+mark which will be moderated based on your team’s peer assessment and tutor observation. All
+team members must complete the self and peer assessment for the assignment. Failure to complete
+the peer assessment by the due date will most likely result in a fail mark for the assignment.
+Value:
+Assignment 2 is worth 25% of the final mark.
+Aims:
+This assignment will give you the opportunity to practise your data gathering, analytical, modelling,
+documentation and communication skills. Specifically, it will help you:
+● Identify and confirm user requirements for a system accurately using data gathering
+techniques
+● Develop your modelling/documentation skills to describe user requirements using user story
+maps, user stories, use case diagrams and activity diagrams
+● Identify and describe data requirements for a system accurately and completely using
+domain modelling
+Assignment outline:
+You have been given the task of gathering and documenting the requirements for a new information
+system for Luxe Fashion Store.
+Assessment criteria:
+A detailed marking scheme is available in the Assignment 2 submission on Moodle. We highly
+recommend reviewing this document before commencing the assignment.
+Assignment planning and management:
+Assignment planning and management must be done using the Trello Kanban project management
+tool. Failure to actively use Trello will result in a reduction in your Team Assignment Project
+Management mark.
+
+Getting help:
+A sub-category called Client Communication (under Assignments category) is created in the Ed
+Discussion forum for you to communicate with the client (Taylor Woo). Please post your questions
+(relating to Luxe Fashion Store business) for the client here.
+Any other questions (not relating to the Luxe Fashion Store business) about the assignment,
+please post in the A2 sub-category. We will have an FAQ post pinned in the A2 sub-category.
+Please read the FAQs, the Client Communication and the A2 forum before posting your question,
+as your question may have already been answered. Please do not post answers for staff to review
+on the forum.
+NOTE: Taylor and the Teaching Staff will make every attempt to answer questions promptly
+(please allow up to 24 hours)
+Extensions:
+Due to the assignment structure, late submissions will not be accepted, as solutions might often be
+released straight after the due date. However, if there are extenuating circumstances, please
+contact your campus lecturer/chief examiner.
+Submission process:
+● Assignment 2 should only be submitted once via Moodle, by a single member of the team.
+Please note that the similarity detection software Turnitin will be enabled.
+● If there are multiple files, please merge them into a single pdf file.
+● The file name of the submission should follow this format:
+• FIT2001_Assignment2_Team[yourTeamID].pdf
+• e.g. FIT2001_Assignment2_Team96.pdf
+● All team members are responsible for the final submission, and therefore every team member
+should be involved throughout and should review the final version prior to its submission.
+● Each team member must accept the declaration statement on Moodle. Failure to do so will
+result in your assignment not being submitted correctly, and thus not being marked.
+● How to submit:
+To submit the assignment - ONE TEAM MEMBER
+● Click on 'Assignment 2 - Requirements Gathering Submission'
+● To submit a pdf copy of the assignment - click on 'Add submission'
+● Click on 'Submit Assignment'
+● When at the digital coversheet 'Confirm Submission' statement
+● Tick the 'I accept student statement' box, click on 'Continue'
+To confirm submission - MUST BE DONE BY ALL OTHER TEAM MEMBERS, otherwise the
+assignment submission will not be finalised
+● Click on 'Assignment 2 - Requirements Gathering Submission'
+● Click on 'Submit Assignment'
+● When at the digital coversheet 'Confirm Submission' statement
+● Tick the 'I accept student statement' box, click on 'Continue'
+Once all team members have gone through this process, the assignment is successfully submitted
+
+ASSIGNMENT REQUIREMENTS
+This assignment will help you understand, model, and document the business requirements of the
+system desired by Luxe Fashion Store.
+Use the ‘Luxe Fashion Detailed System Description’ and the associated sample forms and data files
+(See Assignment 2 submission of FIT2001 Moodle site), and the feedback you received during the
+User Story Mapping Workshop to complete the following tasks.
+Assumptions: Please make sure to put any assumptions or notes made for each of the tasks
+USER STORY MAPPING (34%)
+Software requirements: Please ensure that you have signed up for MIRO using your Monash email
+address. You should have been invited to a Team MIRO Board for your story mapping activity
+labelled 2025S1_TTeamNo_A2_StoryMap (e.g. 2025S1_T88_A2_StoryMap). You can create
+additional boards within your MIRO Team for any other team activities.
+Story mapping help: Please review the Story Mapping Example Video in Week 5 Applied.
+The User Story Mapping section of the assignment is as follows:
+● Story Mapping Workshop (18%)
++ (Minus 50% of individual mark for USER STORY MAPPING for non-attendance at
+workshop)
+o Develop a DRAFT User Story Map and detailed User Stories using the detailed
+description of the system and sample forms. This User Story Map should include:
+▪ All User Journeys for the Luxe Fashion Store System
+▪ All Epics for all the User Journeys you identified above
+▪ All the complete/detailed User Stories (Titles, User Stories and Acceptance
+Criteria) for the following two User Journeys.
+1. Process new stock
+2. Return unsold stock
+o Your DRAFT User Story Map and detailed User Stories should be as complete as you can
+possibly make it, given the information you have BEFORE you attend your Story
+Mapping Workshop with your client.
+Use the MIRO Board labelled 2025S1_TTeamNo_A2_StoryMap to document your story
+map and user stories
+o Conduct a Story Mapping Workshop (approx. 15 minutes) with your client to review and
+confirm your DRAFT User Story Map and User Stories
+o Your tutor/client will take a copy of your DRAFT Story Map before your Story Mapping
+Workshop
+o NOTE: The Story Mapping Workshop must be conducted by Week 7, to give you enough
+time to complete all the assignment tasks using the information gathered during the
+workshop.
+● Finalise User Story Map (16%)
+o Using the detailed description, sample forms, and feedback from the workshop,
+continue working on the same MIRO Board labelled 2025S1_TTeamNo_A2_StoryMap to
+finalise your story map and user stories. Consult with your client (marking tutor) if you
+have further questions in regards to the business requirements. 
+
+For each of the sections below, please refer to the “FIT2001 Assignment 2 Assessment Criteria.pdf”
+for more details.
+SYSTEM OVERVIEW (4%)
+Write a System Overview to provide a brief overview of the business, the background and
+rationale for the project and the system capabilities and benefits. It is made up of the following
+sections:
+● Project description
+This section will provide some background about the client and a brief history of the
+circumstances leading up to the project. It should state the reasons why the client wants the
+system built or modified. This should be stated in a way that makes clear the nature of the
+information needs and/or problems that the system is to address.
+● System capabilities
+This section briefly describes the main functional and non-functional requirements of the
+future NEW system that you expect to provide to the client.
+● Business benefits
+This section lists the primary benefits or outcomes that the project is intended to achieve.
+Sometimes benefits can be expressed in terms of what might be expected if the project is
+not undertaken.
+ACTIVITY DIAGRAM (14%)
+Using all the information gathered from Luxe Fashion Store, create the Activity diagram (one
+diagram only) for the following function for the NEW system:
+● Markdown stock
+This activity diagram should include all functionalities for the markdown of stock items. It
+should only include relevant activities of the markdown process for the 8 weeks
+consignment period.
+NOTE: We recommend the use of Lucidchart (limited) or Diagrams.net (free) to draw your Activity
+Diagram. You may use other tools but please check with your tutors first.
+USE CASE DIAGRAM (17%)
+Create the Use Case diagram for the NEW Luxe Fashion Store System. The model should include
+all relevant actors, show the relationships between actors and use cases, and any relationships
+between use cases.
+NOTE 1: You are not required to complete the Use Case descriptions.
+NOTE 2: You can choose to do one diagram or multiple diagrams to represent the system.
+NOTE 3: We recommend the use of Lucidchart (limited) or Diagrams.net (free) to draw your Use
+Case Diagram. You may use other tools but please check with your tutors first.
+DOMAIN MODEL CLASS DIAGRAM (26%)
+Create the Domain model class diagram for the NEW Luxe Fashion Store System. The model
+should include all relevant domain classes, show their attributes, relationships and relationship
+multiplicities.
+NOTE: We recommend the use of Lucidchart (limited) or Diagrams.net (free) to draw your Class
+Diagram. You may use other tools but please check with your tutors first.
+REPORT PRESENTATION AND TEAM ASSIGNMENT PROJECT MANAGEMENT (5%)
+● Assignment 2 should be submitted in a Report format – See FAQs for format details.
+● For the Team Assignment Project Management, please refer to the section “Assignment planning and management:” of this document.
+
+ASSIGNMENT DELIVERABLES
+Assignment 2 has 4 separate deliverables:
+1. DRAFT User Story Map including all detailed user stories via MIRO for Story Mapping
+Workshop.
+Your tutor will take a copy of your Miro Board at your workshop – you are not required to
+submit anything on Moodle.
+2. FINAL User Story Map including all detailed user stories via MIRO on submission date.
+Your tutor will take a copy of your Miro Board on submission date – you are not required to
+submit anything on Moodle.
+3. A single report submitted via Moodle on submission date.
+It should include the following assignment sections, including any assumptions/notes made for
+each section:
+● System Overview
+● Activity Diagram
+● Use Case Diagram (NOT Use Case Descriptions)
+● Domain Model Class Diagram
+4. Team Assignment Project Management Board via Trello
+Your tutor will access your Trello board (from time to time) to review your assignment
+management – you are not required to submit anything on Moodle.
+FeedbackFruits - Self and Peer Assessment
+The system will only open for one day after the due date of the assignment, so that you can
+adequately reflect on your own performance and that of your team members. Failure to
+complete the peer assessment by the due date will most likely result in a failed assignment.
+Academic Integrity
+Generative AI tools cannot be used in this assessment task
+In this assessment, you must not use generative artificial intelligence (AI) to generate any
+materials or content in relation to the assessment task.

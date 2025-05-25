@@ -1,0 +1,181 @@
+ASSIGNMENT INFORMATION
+Title: Prototyping, Usability & Interface Design
+Due Dates:
+Assignment 3 – Prototyping, Usability &
+Interface Design
+● Prototypes & Persona
+● Demonstration of Prototypes
+Due: Sunday 25 May, 2025, 4:30pm
+Due: During Week 12 Applied session –
+ Week beginning 26 May, 2025
+ Self and Peer Assessment 3
+Due: Week 12 - After Demonstration at
+ Applied session – at the latest by
+ Friday 30 May, 2025 4:30pm
+Group Assignment: You will complete this assignment in your allocated team.
+IMPORTANT NOTE: Marks for individual team members may vary based on peer
+assessment, tutor observation and discussion with the group. All team members must
+complete the self and peer assessment for the assignment. Failure to complete the peer
+assessment by the due date will most likely result in a fail mark for the assignment.
+Value:
+Assignment 3 is worth 14% of the final mark.
+This assignment will give you the opportunity to integrate and develop your analytical,
+modelling, and communication skills. Specifically, it will help you to:
+● understand the value of prototyping in identifying and documenting user
+requirements accurately and completely;
+● develop your interface design skills, considering functional requirements, personas,
+standards, and usability and interface design principles; and
+● develop your presentation and communication skills.
+Assignment outline:
+You have been given the task of gathering and documenting the requirements for a new
+information system for the Luxe Fashion Store using prototyping to understand and
+confirm the business requirements and design the system interfaces.
+Assessment criteria:
+A detailed marking scheme is available in the Assignments section on Moodle. We highly
+recommend you review the marking scheme before commencing the assignment.
+Assignment help:
+Students are encouraged to post questions about the system and the assignment on the
+Ed Stem forums. Please continue using the Client Communication section for any
+requirements related questions, and using the A3 section for assignment questions. We 
+
+will have an FAQ post pinned in the A3 section. Please read the Assignment 3 FAQs, the
+Client Communication and the A3 forums before posting your question, as your question
+may have already been answered. Please do not post answers for staff to review on the
+forum.
+NOTE: Staff will make every attempt to answer questions promptly – NOT necessarily
+immediately. Please note that Dr. Lee may not be available during the weekend.
+Assignment planning and management:
+Assignment planning and management must be done using the Trello Kanban project
+management tool. Failure to actively use Trello will result in a reduction in your Team
+Assignment Project Management mark.
+Extensions:
+If there are extenuating circumstances that require an extension, please contact your
+lecturer and make a Special Consideration request to Central.
+Submission process:
+● Assignment 3 should only be submitted once via Moodle, by a single member of the
+team. Please note that the similarity detection software Turnitin will be enabled.
+● If there are multiple files, please merge them into a single pdf file.
+● The file name of the submission should follow this format:
+o FIT2001_Assignment3_Team[yourTeamID].pdf
+o e.g. FIT2001_Assignment2_Team96.pdf
+● All team members are responsible for the final submission, and therefore every team
+member should be involved throughout and should review the final version prior to its
+submission.
+● Each team member must accept the declaration statement on Moodle. Failure to do
+so will result in your assignment not being submitted correctly, and thus not being
+marked.
+● How to submit:
+To submit the assignment - ONE TEAM MEMBER
+● Click on 'Assignment 3 - Prototyping, Usability & Interface Design submission'
+● To submit a pdf copy of the assignment - click on 'Add submission'
+● Click on 'Submit Assignment'
+● When at the digital coversheet 'Confirm Submission' statement
+● Tick the 'I accept student statement' box, click on 'Continue'
+To confirm submission - MUST BE DONE BY ALL OTHER TEAM MEMBERS, otherwise the
+assignment submission will not be finalised
+● Click on 'Assignment 3 - Prototyping, Usability & Interface Design submission’
+● Click on 'Submit Assignment'
+● When at the digital coversheet 'Confirm Submission' statement
+● Tick the 'I accept student statement' box, click on 'Continue'
+Once all team members have gone through this process, the assignment is successfully
+submitted. 
+
+ASSIGNMENT REQUIREMENTS
+This assignment will help you understand and develop prototypes of the business
+requirements of the system desired by the Luxe Fashion Store.
+Use the ‘Luxe Fashion Store Detailed System Description’ and the associated sample
+files/forms (See Assignment 2 section of FIT2001 Moodle site), and the responses from the
+client in the Ed Discussion Client Communication sub-category, to complete the following
+tasks.
+Assumptions: Please make sure to note any assumptions made for each of the tasks.
+PROTOTYPING (73%)
+Construct complete interface mock-up prototypes (wireframe models) for the following
+business functionality:
+● Process new stock
+o Create new stock (Staff view)
+o Finalise sale price (Staff view)
+o Finalise markdown schedule (Staff view)
+o Manage stocking fee payment (Staff view)
+● Return unsold stock
+o Identify unsold items (Staff view)
+▪ Notes: Staff will review the unsold items before organising the client to
+pick up their unsold items.
+o Organise client pickup of unsold items (Staff view)
+o Organise removal of items not picked up by client (Staff view)
+● Manage consignment client
+o Register new client (Individual and Business Client views)
+o Sign in (Client view)
+o Archive client account (Staff view)
+NOTES:
+● The “view” in the bracket represents the perspective of the actor who/which initiates
+the function. E.g. “Client view” represents Client is the type of user who initiates (or
+performs) the function.
+● Assume that feedback, reminder and resource data are already in the system ready to be
+used as required
+The purpose of the prototypes is to show that you understand the system requirements for
+the required business functionality, and have thought about error handling, messages,
+standards, usability and human computer interaction principles in your design. Note that
+insights from the Week 8 materials will be valuable, as will the following resources:
+● https://asktog.com/atc/principles-of-interaction-design/
+● https://www.cs.umd.edu/users/ben/goldenrules.html
+● https://www.nngroup.com/articles/ten-usability-heuristics/
+
+You must include:
+● The prototypes for the required business functionality
+● A brief description of how each screen works (use Applied 9 student support
+material as a guide as to how you can do this – it is NOT meant to be a proper,
+detailed user guide). You must include ALL error messages and any other messages
+associated with the functionality of the screens.
+● The Individual Client persona to assist with the development of some of your
+interfaces – you will need to make assumptions as you cannot conduct the
+research
+● A research plan to create your persona - a brief description (no more than 300
+words) of the research you would conduct and analysis you would do if it was
+possible
+You may use any tool you wish to create the mock-ups of the system. Please ensure that
+your tool will be available for your use for the demonstration of your prototypes in Week
+12, as some tools only have a free 30-day trial. You may want to consider one the following
+options to develop your prototypes:
+Balsamiq (only 30-day trial), Figma, Diagrams.net, Miro, Lucidchart (paid service).
+Deliverables:
+1. Prototypes – showing each screen, a description of how it works – including all error
+messages and any other messages, and all the links between the screens for the
+specified functionality
+2. A Luxe Fashion Store Individual Client Persona and research plan for developing the
+persona. Note: You only need to develop ONE persona.
+DEMONSTRATION OF PROTOTYPES (20%)
++ (Minus 50% of individual mark for Assignment 3 for non-attendance at demonstration)
+Using the prototypes you have created and submitted, demonstrate/explain to your client
+how the prototypes work and how all their business needs are addressed. Discuss the
+functionality in terms of the various personas (users) using the system.
+Please note the following:
+● ALL members of each team must participate in the presentation - we would like all of
+you to get the opportunity to practise your presentation skills;
+● You must consider the most logical and concise way to present your prototypes within
+the 15 minutes time frame - Practice together as a team to ensure that you meet the
+time requirement, as your presentation will be stopped at the 15-minute mark and you
+will be assessed on whatever you have presented during that time.
+● You will be assessed on your prototypes based on the assessment criteria you have
+been given. The tutors will be assessing your prototypes during the presentation, and
+will also use your uploaded prototypes to finalise your mark;
+● You have ~15 minutes to demonstrate your prototypes 
+
+Deliverable (for the presentation slides):
+● You are not required to hand in anything for this component of the assignment.
+● Attendance at the demonstration is mandatory. Failure to attend the demonstration
+without a valid reason and appropriate evidence, will result in a 50% reduction of your
+final individual mark for Assignment 3.
+REPORT PRESENTATION AND TEAM ASSIGNMENT PROJECT MANAGEMENT (5%)
+● Assignment 3 should be submitted in a basic Report format – See Assessment criteria for
+details.
+● For the Team Assignment Project Management, please refer to the section “Assignment
+planning and management:” on page 2 of this document.
+FeedbackFruits - Self and Peer Assessment
+You must only complete your FeedbackFruits assessment after the Week 12 demonstration of
+your prototypes, and before the due date. Failure to complete the peer assessment will most
+likely result in a fail mark for the assignment.
+Academic Integrity
+Generative AI tools cannot be used in this assessment task
+In this assessment, you must not use generative artificial intelligence (AI) to generate any
+materials or content in relation to the assessment task.
+
